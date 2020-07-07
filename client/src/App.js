@@ -5,7 +5,7 @@ import Main from "./components/main";
 import { Grid } from "@material-ui/core";
 import Header from "./components/Header";
 import ChipContext from "./components/Context/ChipContext";
-// import {BeautyProvider} from "./components/BeautyBag/BeautyProvider";
+import "./App.css";
 
 function App() {
   const [chipObj, setChipObj] = useState([]);

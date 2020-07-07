@@ -1,8 +1,13 @@
 .App {
   text-align: center;
+  font-family: "Oswald", "sans-serif";
 }
 
-.App-logo {
+a {
+  text-decoration: none;
+}
+
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -40,7 +45,3 @@
 /* .svg-container {
   color: black;
 } */
-
-.avatar_makeup_base_svg__cls-4 {
-  fill: black;
-}
