@@ -9,9 +9,9 @@ PRITY is an interactive application that allows users to create and share unique
 
 # User Story
 
-AS a person who is enthusiastic about dreams,
-I WANT to be able to share my dreams
-SO THAT I can express my mind’s designs without judgement
+AS a person who enjoys trying new makeup products,
+I WANT to browse and “test” makeup colors virtually
+SO THAT I can discover new products & make more informed purchases.
 
 # Libraries/Technologies Used
 
