@@ -3,10 +3,11 @@
 ![PRITY homepage](/images/prityScreenshot.jpg "PRITY Homepage")
 
 A Full Stack web app that utilizes a makeup API.
+<br>
 
 PRITY is an interactive application that allows users to create and share unique makeup looks with real product to quickly visualize how combinations of real cosmetic products will look on a variety of different faces and skin tones.
 
-# USER STORY
+# User Story
 
 AS a person who is enthusiastic about dreams,
 I WANT to be able to share my dreams
